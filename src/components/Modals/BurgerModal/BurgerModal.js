@@ -32,7 +32,7 @@ const BModal = props => {
                     <button>Регистрация</button>
                 </Link>
                 <div className='con'>
-                    <div className='email'>alinavinogradova145@gmail.com</div>
+                    <div className='email'>mark.sahar18@mail.ru</div>
                     <p>+7 123 456-78-90</p> 
                 </div>
             </div>
