@@ -1,15 +1,11 @@
-# University_Ratings
+# Запуск Проекта 
 
-![image](https://user-images.githubusercontent.com/46299529/186034088-ce72a53a-b834-415b-9bd7-8ec7d9b52d50.png)
-![image](https://user-images.githubusercontent.com/46299529/186034168-5db447a1-5062-45cb-903b-f0099e737a43.png)
-![image](https://user-images.githubusercontent.com/46299529/186034267-2b17b24a-885e-4c99-b9e7-c4e2d747313d.png)
-![image](https://user-images.githubusercontent.com/46299529/186034343-7dd5ced9-097c-4137-833b-18c7d4ada5b1.png)
-![image](https://user-images.githubusercontent.com/46299529/186034360-2e7699da-c9b7-4629-b241-e59bf220d4ce.png)
-![image](https://user-images.githubusercontent.com/46299529/186034673-a79afa8e-1492-4c04-92c9-aa0ec6b0f61c.png)
-![image](https://user-images.githubusercontent.com/46299529/186034692-abaabfbe-0aa7-450e-8ff0-1eec3bf4a7de.png)
-![image](https://user-images.githubusercontent.com/46299529/186034720-f2d157f9-ee8a-4d34-a166-9e78307fd49e.png)
-![image](https://user-images.githubusercontent.com/46299529/186034730-db50a4fa-4137-44bf-9080-938307828710.png)
-![image](https://user-images.githubusercontent.com/46299529/186034753-f23dd183-1255-4314-a2b4-a9cb963c85cf.png)
-![image](https://user-images.githubusercontent.com/46299529/186034777-e09c663b-3bd9-4a74-9593-819afa5741b0.png)
-![image](https://user-images.githubusercontent.com/46299529/186034845-d62ad493-0f8a-4bf7-881b-cd966c979753.png)
-![image](https://user-images.githubusercontent.com/46299529/186034859-55d23823-6c46-43e0-9d08-26bb2fd69afd.png)
+### `cd .\gov-rating\`
+### `npm start`
+
+
+
+
+
+
+

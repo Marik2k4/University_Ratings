@@ -1,0 +1,86 @@
+.regionalRatings{
+    background-color: #ebeae6;
+    font-family: 'Raleway';
+
+    .title{
+        font-size: 2.2rem;
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .list{
+        
+        color: white;
+        width: auto;
+        margin-left: 90px;
+        margin-right: 90px;
+        padding-bottom: 70px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;    
+
+
+        .Vuzy, .Ssuzy, .Students{
+            width: 430px;
+            height: 220px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin-right: 15px;
+            margin-bottom: 15px;
+
+            .name{
+                margin-bottom: 40px;
+                font-size: 1.2rem;
+                text-transform: uppercase;
+            }
+            
+        }
+
+        .Vuzy, .Students{
+            background-color: black;
+
+            button{
+                background-color: black;
+                color:#e66e4d;
+                border: 1px solid #e66e4d;
+                padding: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+
+                &:hover{
+                    background-color: #e66e4d;
+                    color:black;
+                    transition: all 600ms ease; 
+                }
+            }
+        }
+
+        .Ssuzy{
+            background-color: #e66e4d;
+
+            button{
+                background-color: #e66e4d;
+                color: black;
+                border: 1px solid black;
+                padding: 10px;
+                padding-left: 15px;
+                padding-right: 15px;
+
+                &:hover{
+                    background-color: black;
+                    color:#e66e4d;
+                    transition: all 600ms ease; 
+                }
+            }
+        }
+    }
+
+    @media (max-width: 950px) {
+        .list{
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+}

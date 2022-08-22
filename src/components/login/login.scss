@@ -1,0 +1,78 @@
+.login{
+    width: 100%;
+    background-color: #e1e0dd;
+    font-family: 'Roboto';
+
+    .text{
+        text-align: center;
+        font-style: italic;
+
+        p{
+            padding-top: 30px;
+            font-size: 1.2rem;
+        }
+
+        // Вход
+        p:nth-child(1){
+            font-size: 2rem;
+            padding-top: 110px;
+        }
+
+        // НЕТ АККАУНТА? 
+        p:nth-child(2){
+            opacity: 0.8;
+        }
+
+        a{
+            color: black;
+        }
+
+        .link{
+            margin-left: 5px;
+        }
+    }
+
+    
+    .fields{
+        padding-top: 20px;
+        font-size: 1.2em;
+        color: white;
+        margin-left: 20%;
+        color: black;
+        opacity: 0.8;
+        
+        input{
+            padding-top: 15px;
+            width: 75%;
+            background-color: transparent;
+            border: 1px solid black;
+            padding: 15px;
+            outline:none;
+        }
+
+        p{
+            font-size: 0.9em;
+            padding: 5px;
+        }
+    }
+
+    .log{
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 110px;
+        
+        button{
+            font-size: 1rem;
+            padding: 20px;
+            border: none;
+            padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 25px;
+            padding-bottom: 25px;
+            font-weight: bold;
+            background-color: black;
+            color: white;
+        }
+    }
+}

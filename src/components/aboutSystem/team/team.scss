@@ -1,0 +1,31 @@
+.Team{
+    background-color: #e66e4d;
+    font-family: 'Raleway';
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+    span{
+        padding-top: 80px;
+        padding-bottom: 20px;
+        font-size: 2.3rem;
+        font-family: 'Roboto';
+    }
+
+    p{
+        padding-bottom: 30px;
+        width: 70%;
+        font-size: 1.1rem;
+        line-height: 1.8em;
+    }
+
+    p, span{
+        padding-left: 20%;
+    }
+
+    img{
+        margin-bottom: 110px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

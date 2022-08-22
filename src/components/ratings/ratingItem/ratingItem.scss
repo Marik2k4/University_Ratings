@@ -1,0 +1,31 @@
+.ratingItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 15rem;
+    width: 20rem;
+    margin-bottom: 50px;
+    font-family: 'Roboto';
+
+    .title{
+        
+        background-color: transparent;
+        margin-top: 35px;
+        font-size: 1.3rem;
+        font-family: 'Raleway';
+        text-align: center;
+
+        a{
+            text-decoration: none;
+            color: black
+        }
+        
+    }
+
+    .score{
+        position: relative;
+        margin-bottom: 40px;
+        font-weight: bold;
+    }
+}

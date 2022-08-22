@@ -1,0 +1,70 @@
+.register{
+    width: 100%;
+    background-color: #e66e4d;
+    font-family: 'Roboto';
+
+    .text{
+        text-align: center;
+        font-style: italic;
+
+        p{
+            padding-top: 30px;
+            font-size: 1.2rem;
+        }
+
+        // Регистрация
+        p:nth-child(1){
+            font-size: 2rem;
+            padding-top: 110px;
+        }
+
+        // УЖЕ ЕСТЬ АККАУНТ?
+        p:nth-child(2){
+            opacity: 0.8;
+        }
+
+        a{
+            color: black;
+        }
+    }
+
+    .fields{
+        padding-top: 20px;
+        font-size: 1.1em;
+        margin-left: 20%;
+        color: #e1e0dd;
+        
+        input{
+            padding-top: 15px;
+            width: 75%;
+            background-color: transparent;
+            border: 1px solid #e1e0dd;
+            padding: 15px;
+            color: #e1e0dd;
+            outline:none;
+        }
+
+        p{
+            font-size: 0.9em;
+            padding: 5px;
+        }
+    }
+
+    .reg{
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        padding-bottom: 110px;
+        
+        button{
+            font-size: 1rem;
+            padding: 20px;
+            border: none;
+            padding-left: 40px;
+            padding-right: 40px;
+            font-weight: bold;
+        }
+    }
+
+
+}

@@ -1,0 +1,43 @@
+.AboutItem{
+    /*border: 1px solid black; */
+    width: 400px;
+    display: grid;
+    flex-direction: column;
+    justify-content: space-between;
+    grid-gap: 30px;
+    font-family: 'Montserrat', sans-serif;
+
+    .name{
+        font-size: 1.1rem;
+    }
+
+    .AboutBut{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid black;
+        color: black;
+        text-decoration: none;
+        background-color: transparent;
+        padding: 8px 18px 8px 18px;
+        outline: none;
+        width: 140px;
+        height: 45px;
+
+        &:hover{
+            background-color: black;
+            color:white;
+            transition: all 600ms ease;
+        }
+    }
+
+}
+
+@media (max-width: 880px) {
+    .AboutItem{
+        .name{
+            font-size: 1rem;
+            
+        }
+    }
+}

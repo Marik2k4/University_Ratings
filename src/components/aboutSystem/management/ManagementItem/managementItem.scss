@@ -1,0 +1,26 @@
+.ManagementItem{
+
+    font-family: 'Raleway';
+    color: black;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    
+
+    .ManagementItemTitle{
+        font-size: 1.2rem;
+        padding-bottom: 15px;
+    }
+
+    .ManagementItemUnderTitle{
+        font-size: 1rem;
+        text-transform: uppercase;
+        font-size: 'Roboto';
+        padding-bottom: 8px;
+    }
+
+    .ManagementItemDesrc{
+        line-height: 1.8em;
+        width: 70%;
+    }
+}
+
