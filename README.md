@@ -3,7 +3,7 @@
 ### `cd .\gov-rating\`
 ### `npm start`
 
-![image](https://user-images.githubusercontent.com/46299529/186035989-f2df7954-47ac-4046-a66f-9ee38ec1580b.png)
+![image](https://user-images.githubusercontent.com/46299529/191301373-257985e5-a73c-47f4-b497-cd26a3d603fc.png)
 ![image](https://user-images.githubusercontent.com/46299529/186036057-8825192d-9772-4eef-9478-2dfaa009f883.png)
 ![image](https://user-images.githubusercontent.com/46299529/186036080-491e5be8-9468-41b6-9559-fc18ae64a7d0.png)
 ![image](https://user-images.githubusercontent.com/46299529/186036122-b7e7eb7a-b244-4ead-9f4c-f683ce344ef3.png)
